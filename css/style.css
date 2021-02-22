@@ -20,13 +20,13 @@ body{
     margin-top: 20px;
     cursor: pointer;
     color:#fff;
-    text-decoration: none;
-    border: none;
 }
 
+.button:focus {outline:0;}
 .container{
     padding: 10px 20px 10px 20px;
 }
+
 .quote{
     background-color:rgb(248, 190, 176);
     color: #fff;
